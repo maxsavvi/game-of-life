@@ -1,0 +1,11 @@
+.square {
+  height: 25px;
+  width: 25px;
+  background: #000;
+  margin: 0;
+  padding: 0;
+}
+
+.square.alive {
+  background: #0e0;
+}
